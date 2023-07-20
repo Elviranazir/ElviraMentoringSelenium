@@ -30,16 +30,6 @@ public class Task1 extends BaseDriver {
        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//h2[.='Selenium Webdriver']")));
 
        Assert.assertTrue("Selenium Webdriver",true);
-
-
-
-
-
-
-
-
-
-
    }
 
 }
